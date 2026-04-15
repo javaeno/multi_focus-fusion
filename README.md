@@ -1,3 +1,5 @@
+<img width="743" height="268" alt="image" src="https://github.com/user-attachments/assets/caf4fe6b-f8c3-4866-9072-53ad2de51756" />
+
 # MFF-SSIM
 [Towards Reducing Severe Defocus Spread Effects for Multi-Focus Image Fusion via an Optimization Based Strategy](http://dx.doi.org/10.1109/TCI.2020.3039564)
 
@@ -32,4 +34,4 @@ The MFFW dataset is available at [this page](https://www.researchgate.net/public
   url       = {https://doi.org/10.1109/TCI.2020.3039564},
 }
 ```
-<img width="743" height="268" alt="image" src="https://github.com/user-attachments/assets/a432d76d-f2ab-4b7d-9279-0ad71c5197d4" />
+
