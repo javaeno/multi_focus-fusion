@@ -11,6 +11,7 @@
 - torchvision
 - guided_filter_pytorch
 - skimage
+- minconda
 
 ## MFFW
 The MFFW dataset is available at [this page](https://www.researchgate.net/publication/350965471_MFFW)
